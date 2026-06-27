@@ -26,9 +26,4 @@ The custom-built GUI provides an intuitive platform for training the recognition
 
 | Home Screen | Training Module | Testing Module |
 | :---: | :---: | :---: |
-| ![Homepage](assets/gui_homepage.jpg) | ![Training](assets/gui_training_page.png) | ![Testing](assets/gui_testing_page.png) |
-
-## 🚀 Future Enhancements
-* **Deep Learning Integration:** Transitioning from traditional vector quantization to deep learning-based architectures to improve accuracy in noisy environments.
-* **Real-time Processing:** Optimizing the algorithm for faster response times in high-security, high-traffic facility access points.
-* **Dataset Expansion:** Collecting more diverse audio samples to enhance the system's robustness against variations in accent, age, and environmental noise.
+| ![Homepage](assets/gui_homepage.png) | ![Training](assets/gui_training_page.png) | ![Testing](assets/gui_testing_page.png) |
