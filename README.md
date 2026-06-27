@@ -21,7 +21,7 @@ The system utilizes advanced signal processing techniques to extract unique voca
 
 
 
-## 💻 Software Interface (GUI)
+## Software Interface (GUI)
 The custom-built GUI provides an intuitive platform for training the recognition model and conducting real-time speaker tests.
 
 | Home Screen | Training Module | Testing Module |
